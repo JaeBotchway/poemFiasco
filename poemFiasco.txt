@@ -1,0 +1,9 @@
+1. git checkout HEAD road-not-taken.txt
+2. git checkout -- oven-bird.txt
+3. git diff fire-and-ice.txt
+4. git add .
+5. git reset HEAD --fire-and-ice.txt
+6.git add .
+7. git commit -m 'first commit'
+8. git revert HEAD
+9. git checkout HEAD filename
